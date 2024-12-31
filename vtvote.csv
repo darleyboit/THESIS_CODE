@@ -1,0 +1,276 @@
+"state","year","county","precinct","total_votes","rep_votes","dem_votes"
+"VT",2012,"ADDISON","Addison (Addison 3)",743,386,336
+"VT",2012,"ORLEANS-CALEDONIA","Albany (Orleans-Caledonia )",454,290,149
+"VT",2012,"GRAND ISLE-CHITTENDEN","Alburgh (Grand Isle-Chittenden)",915,591,314
+"VT",2012,"WINDSOR","Andover (Windsor 3-1)",315,187,118
+"VT",2012,"BENNINGTON","Arlington (Bennington 4 )",1247,749,468
+"VT",2012,"WINDHAM","Athens (Windham 3)",145,84,55
+"VT",2012,"FRANKLIN","Bakersfield (Franklin 6)",585,386,190
+"VT",2012,"WINDSOR","Baltimore (Windsor 3-1)",115,63,46
+"VT",2012,"WINDSOR","Barnard (Windsor 4-1)",546,355,184
+"VT",2012,"CALEDONIA-1","Barnet (Caledonia-1)",969,582,363
+"VT",2012,"WASHINGTON","Barre City (Washington 3)",3081,1946,1048
+"VT",2012,"WASHINGTON","Barre Town (Washington 2)",3924,2127,1734
+"VT",2012,"ORLEANS-CALEDONIA","Barton (Orleans-Caledonia )",1075,671,390
+"VT",2012,"LAMOILLE","Belvidere (Lamoille 2)",142,82,57
+"VT",2012,"BENNINGTON","Bennington (Bennington 2-1 )",3426,2446,904
+"VT",2012,"BENNINGTON","Bennington (Bennington 2-2)",2989,2057,849
+"VT",2012,"ADDISON-RUTLAND","Benson (Addison-Rutland)",478,301,159
+"VT",2012,"FRANKLIN","Berkshire (Franklin 5)",570,342,219
+"VT",2012,"WASHINGTON","Berlin (Washington 1)",1265,795,426
+"VT",2012,"WINDSOR-RUTLAND","Bethel (Windsor-Rutland )",975,646,306
+"VT",2012,"ESSEX-CALEDONIA-ORLE","Bloomfield (Essex-Caledonia-Orle",99,58,40
+"VT",2012,"WASHINGTON-CHITTENDEN","Bolton (Washington-Chittenden )",609,433,161
+"VT",2012,"ORANGE","Bradford (Orange 2)",1201,754,416
+"VT",2012,"ORANGE-WASHINGTON-A","Braintree (Orange-Washington-A",556,358,185
+"VT",2012,"RUTLAND","Brandon (Rutland 6)",1807,1204,568
+"VT",2012,"WINDHAM","Brattleboro (Windham 2-1)",2045,1580,432
+"VT",2012,"WINDHAM","Brattleboro (Windham 2-2)",1818,1512,242
+"VT",2012,"WINDHAM","Brattleboro (Windham 2-3)",1836,1529,241
+"VT",2012,"RUTLAND-WINDSOR","Bridgewater (Rutland-Windsor 1)",489,317,158
+"VT",2012,"ADDISON","Bridport (Addison 5)",639,340,277
+"VT",2012,"ESSEX-CALEDONIA-ORLEA","Brighton (Essex-Caledonia-Orlea",536,299,223
+"VT",2012,"ADDISON","Bristol (Addison 4)",1797,1238,507
+"VT",2012,"ORANGE-WASHINGTON-A","Brookfield (Orange-Washington-A",691,456,216
+"VT",2012,"WINDHAM","Brookline (Windham 3)",258,179,76
+"VT",2012,"ORLEANS","Brownington (Orleans 1)",385,229,150
+"VT",2012,"ESSEX-CALEDONIA","Brunswick (Essex-Caledonia)",60,38,22
+"VT",2012,"CALEDONIA-4","Burke (Caledonia-4)",763,455,287
+"VT",2012,"CHITTENDEN","Burlington (Chittenden 6-1)",4216,3065,1045
+"VT",2012,"CHITTENDEN","Burlington (Chittenden 6-2)",2060,1651,329
+"VT",2012,"CHITTENDEN","Burlington (Chittenden 6-3)",3318,2839,264
+"VT",2012,"CHITTENDEN","Burlington (Chittenden 6-4)",2496,2147,242
+"VT",2012,"CHITTENDEN","Burlington (Chittenden 6-5)",4428,3692,596
+"VT",2012,"CHITTENDEN","Burlington (Chittenden 6-6)",1028,875,112
+"VT",2012,"CHITTENDEN","Burlington (Chittenden 6-7)",70,57,4
+"VT",2012,"CALEDONIA-WASHINGTON","Cabot (Caledonia-Washington )",734,487,221
+"VT",2012,"WASHINGTON","Calais (Washington 6)",1003,753,208
+"VT",2012,"LAMOILLE","Cambridge (Lamoille 3)",1892,1332,512
+"VT",2012,"ESSEX-CALEDONIA-ORLEAN","Canaan (Essex-Caledonia-Orlean",413,249,151
+"VT",2012,"RUTLAND","Castleton (Rutland 3)",1721,987,696
+"VT",2012,"WINDSOR","Cavendish (Windsor 2)",673,392,261
+"VT",2012,"ORLEANS","Charleston (Orleans 1)",431,256,169
+"VT",2012,"CHITTENDEN","Charlotte (Chittenden 4-1)",2402,1677,657
+"VT",2012,"ORANGE","Chelsea (Orange 1)",623,331,279
+"VT",2012,"WINDSOR","Chester (Windsor 3-1)",1492,971,489
+"VT",2012,"RUTLAND-WINDSOR","Chittenden (Rutland-Windsor 1)",716,412,288
+"VT",2012,"RUTLAND","Clarendon (Rutland 2)",1231,648,558
+"VT",2012,"CHITTENDEN","Colchester (Chittenden 9-1)",3173,2068,1027
+"VT",2012,"CHITTENDEN","Colchester (Chittenden 9-2)",4158,2550,1524
+"VT",2012,"ESSEX-CALEDONIA","Concord (Essex-Caledonia)",514,275,222
+"VT",2012,"ORANGE","Corinth (Orange 1)",663,408,240
+"VT",2012,"ADDISON","Cornwall (Addison 2)",702,509,181
+"VT",2012,"ORLEANS","Coventry (Orleans 2)",490,297,183
+"VT",2012,"ORLEANS-CALEDONIA","Craftsbury (Orleans-Caledonia )",627,435,151
+"VT",2012,"BENNINGTON-RUTLAND","Danby (Bennington-Rutland )",632,374,236
+"VT",2012,"CALEDONIA-WASHINGTON","Danville (Caledonia-Washington )",1187,695,475
+"VT",2012,"ORLEANS","Derby (Orleans 1)",2120,1234,848
+"VT",2012,"BENNINGTON-RUTLAND","Dorset (Bennington-Rutland )",1206,762,424
+"VT",2012,"WINDHAM-BENNINGTON","Dover (Windham-Bennington)",751,433,299
+"VT",2012,"WINDHAM","Dummerston (Windham 4)",1167,897,234
+"VT",2012,"WASHINGTON","Duxbury (Washington 7)",701,505,184
+"VT",2012,"ESSEX-CALEDONIA-OR","East Haven (Essex-Caledonia-Or",131,68,51
+"VT",2012,"WASHINGTON","East Montpelier (Washington 5)",1595,1151,402
+"VT",2012,"ORLEANS-LAMOILLE","Eden (Orleans-Lamoille)",480,320,146
+"VT",2012,"LAMOILLE-WASHINGTON","Elmore (Lamoille-Washington )",504,359,130
+"VT",2012,"FRANKLIN","Enosburgh (Franklin 7)",1227,797,398
+"VT",2012,"CHITTENDEN","Essex (Chittenden 8-1)",4294,2729,1493
+"VT",2012,"CHITTENDEN","Essex (Chittenden 8-2)",4757,3051,1634
+"VT",2012,"CHITTENDEN","Essex (Chittenden 8-3)",1390,850,513
+"VT",2012,"RUTLAND","Fair Haven (Rutland 3)",1112,678,399
+"VT",2012,"FRANKLIN","Fairfax (Franklin 2)",2145,1275,826
+"VT",2012,"FRANKLIN","Fairfield (Franklin 6)",875,552,306
+"VT",2012,"ORANGE","Fairlee (Orange 2)",533,361,153
+"VT",2012,"WASHINGTON","Fayston (Washington 7)",738,528,189
+"VT",2012,"ADDISON","Ferrisburgh (Addison 3)",1494,951,502
+"VT",2012,"FRANKLIN","Fletcher (Franklin 6)",622,418,185
+"VT",2012,"FRANKLIN","Franklin (Franklin 5)",566,294,261
+"VT",2012,"FRANKLIN","Georgia (Franklin 1)",2189,1228,918
+"VT",2012,"ORLEANS-CALEDONIA","Glover (Orleans-Caledonia )",577,398,158
+"VT",2012,"ADDISON","Goshen (Addison 2)",128,83,35
+"VT",2012,"WINDHAM","Grafton (Windham 3)",360,235,113
+"VT",2012,"ESSEX-CALEDONIA","Granby (Essex-Caledonia)",44,28,15
+"VT",2012,"GRAND ISLE-CHITTENDEN","Grand Isle (Grand Isle-Chittenden",1208,729,448
+"VT",2012,"ORANGE-WASHINGTON-A","Granville (Orange-Washington-A",142,115,21
+"VT",2012,"ORLEANS-CALEDONIA","Greensboro (Orleans-Caledonia )",412,299,101
+"VT",2012,"ORANGE-CALEDONIA","Groton (Orange-Caledonia )",449,219,211
+"VT",2012,"ESSEX-CALEDONIA","Guildhall (Essex-Caledonia)",141,75,60
+"VT",2012,"WINDHAM","Guilford (Windham 1)",1136,853,261
+"VT",2012,"WINDHAM","Halifax (Windham 6)",401,260,136
+"VT",2012,"ADDISON","Hancock (Addison 2)",152,99,47
+"VT",2012,"CALEDONIA-2","Hardwick (Caledonia-2)",1352,924,384
+"VT",2012,"WINDSOR","Hartford (Windsor 4-1)",1143,714,407
+"VT",2012,"WINDSOR","Hartford (Windsor 4-2)",3706,2642,1010
+"VT",2012,"WINDSOR","Hartland (Windsor 1)",1842,1290,525
+"VT",2012,"FRANKLIN","Highgate (Franklin 5)",1299,736,542
+"VT",2012,"CHITTENDEN","Hinesburg (Chittenden 4-1)",16,14,2
+"VT",2012,"CHITTENDEN","Hinesburg (Chittenden 4-2)",2413,1731,650
+"VT",2012,"ORLEANS","Holland (Orleans 1)",296,171,121
+"VT",2012,"RUTLAND","Hubbardton (Rutland 3)",360,211,141
+"VT",2012,"WASHINGTON-CHITTEND","Huntington (Washington-Chittend",1119,850,232
+"VT",2012,"LAMOILLE","Hyde Park (Lamoille 2)",1423,1003,387
+"VT",2012,"RUTLAND","Ira (Rutland 1)",231,132,96
+"VT",2012,"ORLEANS","Irasburg (Orleans 2)",529,290,234
+"VT",2012,"GRAND ISLE-CHITTENDE","Isle LaMotte (Grand Isle-Chittende",293,175,113
+"VT",2012,"WINDHAM-BENNINGTON-W","Jamaica (Windham-Bennington-W",450,315,119
+"VT",2012,"ORLEANS-LAMOILLE","Jay (Orleans-Lamoille)",199,123,69
+"VT",2012,"CHITTENDEN-3","Jericho (Chittenden-3)",3067,1990,1026
+"VT",2012,"LAMOILLE","Johnson (Lamoille 2)",1282,919,333
+"VT",2012,"RUTLAND-WINDSOR","Killington (Rutland-Windsor 1)",632,363,255
+"VT",2012,"ESSEX-CALEDONIA","Kirby (Essex-Caledonia)",248,158,78
+"VT",2012,"BENNINGTON-RUTLAND","Landgrove (Bennington-Rutland )",103,82,20
+"VT",2012,"ADDISON","Leicester (Addison 2)",481,292,176
+"VT",2012,"ESSEX-CALEDONIA-ORLE","Lemington (Essex-Caledonia-Orle",52,28,23
+"VT",2012,"ADDISON","Lincoln (Addison 4)",788,581,181
+"VT",2012,"WINDHAM-BENNINGT","Londonderry (Windham-Benningt",905,552,334
+"VT",2012,"ORLEANS-LAMOILLE","Lowell (Orleans-Lamoille)",378,228,143
+"VT",2012,"RUTLAND-WINDSOR","Ludlow (Rutland-Windsor 2)",1109,652,437
+"VT",2012,"ESSEX-CALEDONIA","Lunenburg (Essex-Caledonia)",561,296,243
+"VT",2012,"CALEDONIA-4","Lyndon (Caledonia-4)",2079,1140,866
+"VT",2012,"ESSEX-CALEDONIA","Maidstone (Essex-Caledonia)",104,50,52
+"VT",2012,"BENNINGTON","Manchester (Bennington 4 )",2327,1439,850
+"VT",2012,"WINDHAM","Marlboro (Windham 5)",578,481,73
+"VT",2012,"WASHINGTON","Marshfield (Washington 6)",822,521,253
+"VT",2012,"RUTLAND-WINDSOR","Mendon (Rutland-Windsor 1)",595,319,262
+"VT",2012,"ADDISON","Middlebury (Addison 1)",3370,2635,661
+"VT",2012,"WASHINGTON","Middlesex (Washington 5)",1005,756,216
+"VT",2012,"RUTLAND-BEN","Middletown Springs (Rutland-Ben",442,272,163
+"VT",2012,"CHITTENDEN","Milton (Chittenden 10)",3972,2231,1665
+"VT",2012,"GRAND ISLE-CHITTENDEN","Milton (Grand Isle-Chittenden)",678,358,301
+"VT",2012,"ADDISON","Monkton (Addison 4)",1076,724,330
+"VT",2012,"FRANKLIN","Montgomery (Franklin 7)",597,410,174
+"VT",2012,"WASHINGTON","Montpelier (Washington 4)",4522,3694,700
+"VT",2012,"WASHINGTON","Moretown (Washington 7)",957,664,261
+"VT",2012,"ORLEANS","Morgan (Orleans 1)",340,162,175
+"VT",2012,"LAMOILLE-WASHINGTON","Morristown (Lamoille-Washington",2499,1780,668
+"VT",2012,"RUTLAND-WINDSOR","Mount Holly (Rutland-Windsor 2)",750,439,294
+"VT",2012,"BENNINGTON-RUTLAND","Mount Tabor (Bennington-Rutland",83,50,32
+"VT",2012,"ADDISON","New Haven (Addison 5)",987,653,323
+"VT",2012,"ESSEX-CALEDONIA-ORLEAN","Newark (Essex-Caledonia-Orlean",301,168,111
+"VT",2012,"ORANGE-CALEDONIA","Newbury (Orange-Caledonia )",1025,623,375
+"VT",2012,"WINDHAM","Newfane (Windham 5)",962,732,200
+"VT",2012,"ORLEANS","Newport City (Orleans 2)",1556,962,555
+"VT",2012,"ORLEANS","Newport Town (Orleans 2)",691,405,270
+"VT",2012,"GRAND ISLE-CHITTENDEN","North Hero (Grand Isle-Chittenden",572,312,249
+"VT",2012,"WASHINGTON","Northfield (Washington 1)",2113,1378,685
+"VT",2012,"ESSEX-CALEDONIA-ORLEANS","Norton (Essex-Caledonia-Orleans",94,45,44
+"VT",2012,"WINDSOR-ORANGE","Norwich (Windsor-Orange 2)",2168,1839,293
+"VT",2012,"ORANGE","Orange (Orange 1)",517,251,248
+"VT",2012,"ADDISON-RUTLAND","Orwell (Addison-Rutland)",619,333,275
+"VT",2012,"ADDISON","Panton (Addison 3)",336,208,122
+"VT",2012,"RUTLAND-BENNINGTON","Pawlet (Rutland-Bennington)",734,461,254
+"VT",2012,"CALEDONIA-WASHINGTON","Peacham (Caledonia-Washington",488,346,136
+"VT",2012,"BENNINGTON-RUTLAND","Peru (Bennington-Rutland )",219,160,55
+"VT",2012,"WINDSOR-RUTLAND","Pittsfield (Windsor-Rutland )",284,160,116
+"VT",2012,"RUTLAND","Pittsford (Rutland 6)",1464,891,543
+"VT",2012,"WASHINGTON","Plainfield (Washington 6)",663,509,118
+"VT",2012,"WINDSOR","Plymouth (Windsor 5)",338,192,138
+"VT",2012,"WINDSOR","Pomfret (Windsor 4-1)",602,431,161
+"VT",2012,"RUTLAND","Poultney (Rutland 1)",1366,857,468
+"VT",2012,"BENNINGTON","Pownal (Bennington 1)",1588,1047,507
+"VT",2012,"RUTLAND","Proctor (Rutland 2)",802,498,294
+"VT",2012,"WINDHAM","Putney (Windham 4)",1284,1064,188
+"VT",2012,"ORANGE-WASHINGTON-A","Randolph (Orange-Washington-A",2132,1409,663
+"VT",2012,"WINDSOR","Reading (Windsor 5)",376,259,102
+"VT",2012,"WINDHAM-BENNINGTON","Readsboro (Windham-Bennington",359,223,122
+"VT",2012,"FRANKLIN","Richford (Franklin 5)",767,497,257
+"VT",2012,"CHITTENDEN-1","Richmond (Chittenden-1)",2419,1722,650
+"VT",2012,"ADDISON","Ripton (Addison 2)",336,267,58
+"VT",2012,"WINDSOR-RUTLAND","Rochester (Windsor-Rutland )",659,463,173
+"VT",2012,"WINDHAM","Rockingham (Windham 3)",2119,1562,497
+"VT",2012,"ORANGE-WASHINGTON-AD","Roxbury (Orange-Washington-Ad",336,228,91
+"VT",2012,"WINDSOR-ORANGE","Royalton (Windsor-Orange 1)",1272,870,355
+"VT",2012,"RUTLAND-BENNINGTON","Rupert (Rutland-Bennington)",383,238,137
+"VT",2012,"RUTLAND","Rutland City (Rutland 5-1)",2132,1243,846
+"VT",2012,"RUTLAND","Rutland City (Rutland 5-2)",1837,1139,655
+"VT",2012,"RUTLAND","Rutland City (Rutland 5-3)",1225,797,387
+"VT",2012,"RUTLAND","Rutland City (Rutland 5-4)",1654,1073,542
+"VT",2012,"RUTLAND","Rutland Town (Rutland 4)",2283,1211,1029
+"VT",2012,"CALEDONIA-1","Ryegate (Caledonia-1)",556,342,201
+"VT",2012,"FRANKLIN","Saint Albans City (Franklin 3-1)",2434,1593,752
+"VT",2012,"FRANKLIN","Saint Albans Town (Franklin 3-1)",861,496,351
+"VT",2012,"FRANKLIN","Saint Albans Town (Franklin 3-2)",1921,1096,796
+"VT",2012,"CHITTENDEN","Saint George (Chittenden 5-2)",327,219,103
+"VT",2012,"CALEDONIA-3","Saint Johnsbury (Caledonia-3)",2937,1789,1081
+"VT",2012,"ADDISON","Salisbury (Addison 2)",540,356,171
+"VT",2012,"BENNINGTON","Sandgate (Bennington 4 )",208,121,82
+"VT",2012,"WINDHAM-BENNINGTON","Searsburg (Windham-Bennington",52,24,21
+"VT",2012,"BENNINGTON","Shaftsbury (Bennington 3)",1866,1163,673
+"VT",2012,"WINDSOR-ORANGE","Sharon (Windsor-Orange 2)",714,496,202
+"VT",2012,"ORLEANS-CALEDONIA","Sheffield (Orleans-Caledonia )",286,182,93
+"VT",2012,"CHITTENDEN","Shelburne (Chittenden 5-1)",2479,1759,679
+"VT",2012,"CHITTENDEN","Shelburne (Chittenden 5-2)",2059,1317,724
+"VT",2012,"FRANKLIN","Sheldon (Franklin 4)",778,476,283
+"VT",2012,"ADDISON-RUTLAND","Shoreham (Addison-Rutland)",623,404,201
+"VT",2012,"RUTLAND-WINDSOR","Shrewsbury (Rutland-Windsor 2)",651,383,248
+"VT",2012,"CHITTENDEN","South Burlington (Chittenden 7-1)",2395,1650,698
+"VT",2012,"CHITTENDEN","South Burlington (Chittenden 7-2)",2613,1720,851
+"VT",2012,"CHITTENDEN","South Burlington (Chittenden 7-3)",2203,1636,522
+"VT",2012,"CHITTENDEN","South Burlington (Chittenden 7-4)",2248,1507,677
+"VT",2012,"GRAND ISLE-CHITTENDE","South Hero (Grand Isle-Chittende",1087,724,347
+"VT",2012,"WINDSOR","Springfield (Windsor 3-1)",131,80,47
+"VT",2012,"WINDSOR","Springfield (Windsor 3-2)",3651,2264,1295
+"VT",2012,"WINDHAM-BENNINGTON","Stamford (Windham-Bennington)",468,274,176
+"VT",2012,"CALEDONIA-2","Stannard (Caledonia-2)",94,68,19
+"VT",2012,"ADDISON","Starksboro (Addison 4)",836,582,230
+"VT",2012,"WINDSOR-RUTLAND","Stockbridge (Windsor-Rutland )",386,260,119
+"VT",2012,"LAMOILLE","Stowe (Lamoille 1)",2660,1805,800
+"VT",2012,"WINDSOR-ORANGE","Strafford (Windsor-Orange 2)",694,561,114
+"VT",2012,"WINDHAM-BENNINGTON-W","Stratton (Windham-Bennington-W",143,73,70
+"VT",2012,"RUTLAND","Sudbury (Rutland 6)",307,199,102
+"VT",2012,"BENNINGTON","Sunderland (Bennington 3)",99,74,24
+"VT",2012,"BENNINGTON","Sunderland (Bennington 4 )",383,236,141
+"VT",2012,"CALEDONIA-4","Sutton (Caledonia-4)",430,254,167
+"VT",2012,"FRANKLIN","Swanton (Franklin 4)",2452,1461,947
+"VT",2012,"WINDSOR-ORANGE","Thetford (Windsor-Orange 2)",1548,1196,312
+"VT",2012,"RUTLAND","Tinmouth (Rutland 2)",71,41,30
+"VT",2012,"RUTLAND-BENNINGTON","Tinmouth (Rutland-Bennington)",221,136,79
+"VT",2012,"ORANGE-CALEDONIA","Topsham (Orange-Caledonia )",510,288,208
+"VT",2012,"WINDHAM","Townshend (Windham 5)",649,449,191
+"VT",2012,"ORLEANS","Troy (Orleans 2)",149,86,62
+"VT",2012,"ORLEANS-LAMOILLE","Troy (Orleans-Lamoille)",490,307,174
+"VT",2012,"WINDSOR-ORANGE","Tunbridge (Windsor-Orange 1)",765,500,239
+"VT",2012,"CHITTENDEN-3","Underhill (Chittenden-3)",1829,1226,565
+"VT",2012,"ADDISON","Vergennes (Addison 3)",1122,788,312
+"VT",2012,"WINDHAM","Vernon (Windham 1)",1086,562,495
+"VT",2012,"ORANGE","Vershire (Orange 1)",345,230,103
+"VT",2012,"ESSEX-CALEDONIA","Victory (Essex-Caledonia)",49,30,18
+"VT",2012,"WASHINGTON","Waitsfield (Washington 7)",1096,824,237
+"VT",2012,"CALEDONIA-2","Walden (Caledonia-2)",475,303,158
+"VT",2012,"RUTLAND","Wallingford (Rutland 2)",1127,663,426
+"VT",2012,"ADDISON","Waltham (Addison 3)",267,179,76
+"VT",2012,"WINDHAM-BENNINGTON","Wardsboro (Windham-Bennington",388,247,130
+"VT",2012,"WASHINGTON","Warren (Washington 7)",997,774,197
+"VT",2012,"ORANGE","Washington (Orange 1)",525,315,195
+"VT",2012,"WASHINGTON-CHITTEND","Waterbury (Washington-Chittend",2714,1978,654
+"VT",2012,"CALEDONIA-1","Waterford (Caledonia-1)",707,370,326
+"VT",2012,"LAMOILLE","Waterville (Lamoille 3)",337,233,98
+"VT",2012,"WINDSOR","Weathersfield (Windsor 2)",1434,895,509
+"VT",2012,"RUTLAND-BENNINGTON","Wells (Rutland-Bennington)",528,270,234
+"VT",2012,"ORANGE","West Fairlee (Orange 2)",297,195,93
+"VT",2012,"RUTLAND","West Haven (Rutland 3)",127,79,44
+"VT",2012,"RUTLAND","West Rutland (Rutland 2)",1006,597,391
+"VT",2012,"WINDSOR","West Windsor (Windsor 1)",684,454,219
+"VT",2012,"ORLEANS-LAMOILLE","Westfield (Orleans-Lamoille)",293,170,112
+"VT",2012,"CHITTENDEN","Westford (Chittenden 8-3)",1145,742,376
+"VT",2012,"WINDHAM","Westminster (Windham 3)",78,62,14
+"VT",2012,"WINDHAM","Westminster (Windham 4)",1508,1151,324
+"VT",2012,"ESSEX-CALEDONIA-ORLE","Westmore (Essex-Caledonia-Orle",200,104,92
+"VT",2012,"WINDHAM-BENNINGTON-W","Weston (Windham-Bennington-W",418,282,130
+"VT",2012,"ADDISON","Weybridge (Addison 5)",544,401,127
+"VT",2012,"ORLEANS-CALEDONIA","Wheelock (Orleans-Caledonia )",340,197,132
+"VT",2012,"ADDISON-RUTLAND","Whiting (Addison-Rutland)",188,133,54
+"VT",2012,"WINDHAM","Whitingham (Windham 6)",595,364,220
+"VT",2012,"WINDHAM-BENNINGTO","Whitingham (Windham-Benningto",18,12,6
+"VT",2012,"ORANGE","Williamstown (Orange 1)",1428,840,549
+"VT",2012,"CHITTENDEN-2","Williston (Chittenden-2)",5123,3329,1697
+"VT",2012,"WINDHAM","Wilmington (Windham 6)",1037,692,327
+"VT",2012,"WINDHAM","Windham (Windham 3)",220,146,70
+"VT",2012,"WINDSOR","Windsor (Windsor 1)",1562,1119,406
+"VT",2012,"WINDHAM-BENNINGTON-WI","Winhall (Windham-Bennington-Wi",499,297,189
+"VT",2012,"CHITTENDEN","Winooski (Chittenden 6-7)",2576,1941,552
+"VT",2012,"LAMOILLE","Wolcott (Lamoille 2)",769,538,211
+"VT",2012,"LAMOILLE-WASHINGTON","Woodbury (Lamoille-Washington",489,317,157
+"VT",2012,"BENNINGTON","Woodford (Bennington 1)",171,122,45
+"VT",2012,"WINDSOR","Woodstock (Windsor 5)",1899,1361,508
+"VT",2012,"LAMOILLE-WASHINGTON","Worcester (Lamoille-Washington",552,416,112
